@@ -1,0 +1,25 @@
+{
+  "name": "angular-start-app",
+  "title": "Start app",
+  "description": "A simple template to start an Angular JS based app using Lineman & Bower",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "George Ilie",
+    "company": "2hats.net"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3",
+    "jasmine-given": "~2.1.0",
+    "lineman": ">= 0.28.0",
+    "lineman-angular": ">= 0.2.0",
+    "lineman-less": "0.0.1",
+    "lineman-bower": "0.0.3",
+    "sqlite3": "~2.2.0",
+    "protractor": "^0.23.1"
+  },
+  "scripts": {
+    "start": "lineman run",
+    "test": "lineman spec-ci"
+  }
+}
