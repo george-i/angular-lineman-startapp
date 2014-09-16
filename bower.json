@@ -16,5 +16,30 @@
     "angular-ui-router": "~0.2.8",
     "font-awesome": "~4.0.3",
     "bootstrap-sass-official": "~3.2.0+2"
-  }
+  },
+  "homepage": "https://github.com/george-i/angular-lineman-startapp",
+  "authors": [
+    "George Ilie <uncounted@hotmail.com>"
+  ],
+  "description": "Advanced web development toolkit based on Lineman JS",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "angularjs",
+    "lineman",
+    "nodejs",
+    "socket.io",
+    "sass"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/vendor/bower",
+    "test",
+    "tests"
+  ]
 }
