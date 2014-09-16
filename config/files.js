@@ -21,8 +21,8 @@ module.exports = function(lineman) {
                 "vendor/bower/angular-sanitize/angular-sanitize.js",
                 "vendor/bower/angular-touch/angular-touch.js",
                 "vendor/bower/angular-ui-router/release/angular-ui-router.js",
-                "vendor/bower/bootstrap/dist/js/bootstrap.js",
-                "vendor/bower/underscore/underscore.js"
+                "vendor/bower/underscore/underscore.js",
+                "node_modules/socket.io/node_modules/socket.io-client/socket.io.js"
             ],
             app: [
                 "app/js/app.js",
@@ -35,16 +35,8 @@ module.exports = function(lineman) {
             ],
             root: "fonts"
         },
-        less: {
-            compile: {
-                options: {
-                    paths: ["vendor/css/**/*.css", "app/css/**/*.less"]
-                }
-            },
-            vendor: ["vendor/css/**/*.less"]
-        },
         css: {
-            vendor: ["vendor/css/**/*.css","vendor/bower/bootstrap/dist/css/bootstrap.css","vendor/bower/bootstrap/dist/css/bootstrap-theme.css","vendor/bower/font-awesome/css/font-awesome.css"]
+            vendor: ["vendor/bower/font-awesome/css/font-awesome.css"]
         }
     };
 };

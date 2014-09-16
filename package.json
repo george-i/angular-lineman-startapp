@@ -21,5 +21,9 @@
   "scripts": {
     "start": "lineman run",
     "test": "lineman spec-ci"
+  },
+  "dependencies": {
+    "socket.io": "^1.1.0",
+    "mongoose": "^3.8.16"
   }
 }

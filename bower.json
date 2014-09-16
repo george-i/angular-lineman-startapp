@@ -1,19 +1,20 @@
 {
-    "name": "ngsample",
-    "version": "0.0.1",
-    "dependencies": {
-        "jquery": "~1.11.1",
-        "angular": "~1.2.15",
-        "underscore": "~1.6.0",
-        "bootstrap": "~3.1.1",
-        "angular-bootstrap": "~0.10.0",
-        "angular-animate": "~1.2.15",
-        "angular-resource": "~1.2.15",
-        "angular-route": "~1.2.15",
-        "angular-touch": "~1.2.15",
-        "angular-cookies": "~1.2.15",
-        "angular-sanitize": "~1.2.15",
-        "angular-ui-router": "~0.2.8",
-        "font-awesome": "~4.0.3"
-    }
+  "name": "ngsample",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "angular": "~1.2.15",
+    "underscore": "~1.6.0",
+    "bootstrap": "~3.1.1",
+    "angular-bootstrap": "~0.10.0",
+    "angular-animate": "~1.2.15",
+    "angular-resource": "~1.2.15",
+    "angular-route": "~1.2.15",
+    "angular-touch": "~1.2.15",
+    "angular-cookies": "~1.2.15",
+    "angular-sanitize": "~1.2.15",
+    "angular-ui-router": "~0.2.8",
+    "font-awesome": "~4.0.3",
+    "bootstrap-sass-official": "~3.2.0+2"
+  }
 }
