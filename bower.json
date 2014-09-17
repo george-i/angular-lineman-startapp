@@ -14,8 +14,7 @@
     "angular-cookies": "~1.2.15",
     "angular-sanitize": "~1.2.15",
     "angular-ui-router": "~0.2.8",
-    "font-awesome": "~4.0.3",
-    "bootstrap-sass-official": "~3.2.0+2"
+    "font-awesome": "~4.0.3"
   },
   "homepage": "https://github.com/george-i/angular-lineman-startapp",
   "authors": [
@@ -28,10 +27,7 @@
   ],
   "keywords": [
     "angularjs",
-    "lineman",
-    "nodejs",
-    "socket.io",
-    "sass"
+    "lineman"
   ],
   "license": "MIT",
   "ignore": [
