@@ -22,7 +22,8 @@ Lineman includes <b>Grunt</b>, <b>Jasmine</b> and also runs a local server for d
 
 Setup & run
 --------------
-
+It is assumed that NodeJS, Bower and Lineman are installed.
+<br />
 ```sh
 npm install
 bower install
